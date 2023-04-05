@@ -1,0 +1,9 @@
+class problem19{
+    public static void main(String a[]){
+        System.out.println("The number of bits used to represent a long value    :: "+Long.SIZE);
+        System.out.println("The number of bytes used to represent a long value   :: "+Long.BYTES);
+        System.out.println("The minimum value a long                             ::"+(long)Long.MIN_VALUE);
+        System.out.println("The maximum value a long                             :: "+(long)Long.MAX_VALUE);
+    }
+}
+
